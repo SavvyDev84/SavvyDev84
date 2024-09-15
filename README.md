@@ -1,4 +1,4 @@
-
+Bitcoin and Solana Fullstack Dev
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
 &nbsp;
